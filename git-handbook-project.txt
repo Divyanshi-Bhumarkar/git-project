@@ -1,0 +1,25 @@
+go to git website
+after installing git you have to these things
+-->check version
+	git --version
+
+-->set config values
+	git config --global user.name "Divyanshi"
+	git config --global user.email "@gmail.com
+	
+	git config --list (to check those values)
+
+-->need help
+	git help <verb> (here the first verb we have used is config in those command , 	to know what does that verb do or meaning of it. If we put config in place of 	<verb> a manual will open which will give info about config verb.)
+	git <verb> --help
+
+-->initialize a repository from existing code
+	git init (it will create a repository in your device)
+
+-->check status
+	git status (will give you tracked and untracked files)
+
+-->
+	
+	
+   
