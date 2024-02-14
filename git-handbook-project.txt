@@ -19,7 +19,7 @@ after installing git you have to these things
 -->check status
 	git status (will give you tracked and untracked files)
 
--->
+-->I am adding another line into it
 	
 	
    
